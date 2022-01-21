@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((breath * love (breath * love (breath * love))))
+echo $((BREATH=4 ^ LOVE=3))
