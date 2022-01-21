@@ -1,2 +1,1 @@
-# tc-shell
-Shell, init files, variávies e expansões
+Teste Task_0
