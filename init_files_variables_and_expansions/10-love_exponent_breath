@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $((breath * love (breath * love (breath * love))))
